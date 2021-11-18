@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = orland20161@gmail.com
+	name = horlando espinoza
